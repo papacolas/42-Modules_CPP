@@ -1,0 +1,7 @@
+# Ignore object files
+*.o
+# Ignore build artifacts in obj/ and bin/
+obj/
+bin/
+.vscode/
+
